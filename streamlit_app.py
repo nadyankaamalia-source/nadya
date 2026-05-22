@@ -5,6 +5,6 @@ st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
 st.title("Good Afternoon")
-st.title("_Have_ a nice :blue[Day] :tada:")
+st.title("_Have_ a nice :blue[Day] :zzz:")
 
 
