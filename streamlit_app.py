@@ -1,10 +1,5 @@
 import streamlit as st
 
-st.title("🎈 Welcome!")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
-st.title("Good Afternoon")
-st.title("_Have_ a nice :blue[Day] :zzz:")
-
-
+st.set_page_config(
+    page_title="Finance Dashboard",
+    layout="wide"
